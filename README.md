@@ -1,5 +1,5 @@
 ---
-title: Veylon AGI Deploy
+title: Veylon JEV style Model
 emoji: 🧠
 colorFrom: blue
 colorTo: purple
@@ -8,5 +8,5 @@ app_file: api.py
 pinned: false
 ---
 
-# Veylon AGI v5
+# Veylon JEV
 Last Force Redeploy: Wed May 13 09:51:28 2026
